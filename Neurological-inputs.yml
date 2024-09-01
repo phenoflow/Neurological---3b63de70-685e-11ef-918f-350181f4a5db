@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/neuropathy-neurological---undefined.py
+inputModule3:
+  class: File
+  path: python/neurological-state---undefined.py
+inputModule4:
+  class: File
+  path: python/neurological-psychosis---undefined.py
+inputModule5:
+  class: File
+  path: python/neurological-seizure---undefined.py
+inputModule6:
+  class: File
+  path: python/neurological-myelitis---undefined.py
+inputModule7:
+  class: File
+  path: python/neurological-multiplex---undefined.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
